@@ -1,0 +1,9 @@
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+frontend/dist/
+e2e/test-results/
+e2e/playwright-report/
+.vercel
+.DS_Store
