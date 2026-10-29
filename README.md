@@ -9,7 +9,7 @@ January 2026 using Elexon BMRS data:
 2. **How much should we trust it?** It measures forecast error (MAE, RMSE, bias,
    P10/P90) and shows how that error changes with lead time, time of day and day.
 
-**Live app:** _<VERCEL_URL>_
+**Live app:** https://vqmzk.vercel.app
 
 ![Dashboard](e2e/screenshots/dashboard.png)
 
